@@ -1,6 +1,7 @@
 // src/api.js
 // Funções de exemplo para a API da AngelCorp
 // Estas funções serão testadas pelo Jest e analisadas pelo quality gate
+// Teste de polling
 
 /**
  * Busca um usuário pelo ID
